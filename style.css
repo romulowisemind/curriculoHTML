@@ -1,0 +1,42 @@
+h1 {
+  font-family: Arial;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.item {
+  background: #808080;
+  color: #fff;
+  padding: 20px;
+  margin-left: 600px;
+  border-radius: 4px;
+  width: 600px;
+}
+h2 {
+  font-family: Arial;
+  text-align: center;
+  color: white;
+}
+.teste {
+  color: blue;
+}
+
+.lista {
+  font-family: Arial;
+  font-weight: regular;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.dados {
+  text-align: center;
+  font-family: Arial;
+}
+a,
+p {
+  font-size: 20px;
+}
+
+i {
+  font-size: 25px;
+}
